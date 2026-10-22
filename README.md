@@ -17,7 +17,7 @@
 
 ## 👋 Chi sono
 
-Sono **Andrea**, studente al secondo anno della laurea magistrale in **Sicurezza Informatica e Tecnologie Cloud** presso l'Università degli Studi di Salerno. Ho conseguito la laurea triennale in Ingegneria e Scienze Informatiche per la Cybersecurity all'Università Parthenope di Napoli, con **110/110 e lode**.
+Sono **Andrea**, studente al secondo anno della laurea magistrale in **Sicurezza Informatica e Tecnologie Cloud** presso l'Università degli Studi di Salerno. Ho conseguito la laurea triennale in Ingegneria e Scienze Informatiche per la Cybersecurity all'Università Parthenope di Napoli, con **110/110 con Lode**.
 
 Nei progetti universitari mi sono occupato di:
 
@@ -42,9 +42,9 @@ Python · C · C++ · Java · PHP · MySQL · Git · GitHub · GitHub Actions
 
 **Sistemi, cloud e container**
 
-![Sistemi, cloud e container](https://skillicons.dev/icons?i=linux,kali,docker,kubernetes,aws,azure,gcp)
+![Sistemi, cloud e container](https://skillicons.dev/icons?i=kali,docker,kubernetes,aws,azure,gcp)
 
-Linux · Kali Linux · Docker · Kubernetes · AWS · Microsoft Azure · Google Cloud
+Kali Linux · Docker · Kubernetes · AWS · Microsoft Azure · Google Cloud
 
 | Area | Strumenti e conoscenze |
 |------|------------------------|
@@ -53,6 +53,7 @@ Linux · Kali Linux · Docker · Kubernetes · AWS · Microsoft Azure · Google 
 | **DevSecOps** | GitHub Actions, Semgrep, SonarCloud, Snyk, Trivy (SAST/SCA) |
 | **Cloud** | Fondamenti di AWS, Microsoft Azure e Google Cloud, Docker, Kubernetes |
 | **Data e machine learning** | Pandas, NumPy, Scikit-learn, Matplotlib |
+| **Threat analysis e incident response** | Framework MITRE ATT&CK per la classificazione degli attacchi, basi di SIEM e digital forensics |
 | **Normative** | GDPR, aspetti legali e organizzativi della cybersecurity |
 
 ---
@@ -104,7 +105,7 @@ Confronto di sei modelli di machine learning su dati clinici, con gestione di ou
 | Periodo | Percorso |
 |---------|----------|
 | Ott. 2025 - in corso | **Laurea Magistrale in Sicurezza Informatica e Tecnologie Cloud (LM-66)**<br>Università degli Studi di Salerno |
-| Set. 2022 - Lug. 2025 | **Laurea Triennale in Ingegneria e Scienze Informatiche per la Cybersecurity (L-8)**<br>Università Parthenope. Votazione 110/110 con lode<br>Tesi: "Studio ed Analisi di Schemi per Secure Multiparty Computation" |
+| Set. 2022 - Lug. 2025 | **Laurea Triennale in Ingegneria e Scienze Informatiche per la Cybersecurity (L-8)**<br>Università Parthenope. Votazione 110/110 con Lode<br>Tesi: "Studio ed Analisi di Schemi per Secure Multiparty Computation" |
 | Set. 2017 - Lug. 2022 | **Diploma di Liceo Scientifico**<br>Liceo "R. Levi Montalcini - G. Ferraris", sede di Saviano (NA). Votazione 100/100 |
 
 ## 📜 Certificazioni
