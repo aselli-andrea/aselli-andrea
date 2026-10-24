@@ -2,8 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=A6512C&height=220&section=header&text=Andrea%20Aselli&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Cybersecurity%20Engineer&descAlignY=58&descSize=22)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=A6512C&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Penetration+Testing;Network+Security;DevSecOps+e+Kubernetes;Cloud+Security;Sempre+in+apprendimento)](https://github.com/aselli-andrea)
-
 ![Laurea](https://img.shields.io/badge/M.Sc.-Sicurezza%20Informatica%20%26%20Tecnologie%20Cloud-A6512C?style=for-the-badge)
 ![Ateneo](https://img.shields.io/badge/UNISA-Universit%C3%A0%20di%20Salerno-333333?style=for-the-badge)
 ![Luogo](https://img.shields.io/badge/Campania-Italia-555555?style=for-the-badge)
@@ -24,7 +22,6 @@ Nei progetti universitari mi sono occupato di:
 - 🔓 **Penetration testing** e analisi di applicazioni web (OWASP Top 10)
 - 🌐 Analisi del traffico di rete, attacchi e contromisure in ambienti virtualizzati
 - ⚙️ **DevSecOps**: pipeline CI/CD, container Docker e deploy su Kubernetes
-- ☁️ Cloud computing e sicurezza delle infrastrutture
 
 ### 🎯 Cosa cerco
 
